@@ -64,7 +64,7 @@ Instead of having services communicate directly, all events are sent to Kafka. M
 2. **Clone the repository**:
 
 ```bash
-git clone <repo-url>
+git clone [<repo-url>](https://github.com/Neuro1729/kafka_learning.git)
 cd kafka-learning
 ```
 
